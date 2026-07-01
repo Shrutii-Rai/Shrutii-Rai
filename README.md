@@ -97,26 +97,6 @@ A full-stack web app to track personal income & expenses.
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Personal Portfolio Website
-
-A fully responsive personal portfolio built from scratch.
-
-**✨ Highlights**
-- 🎨 Clean, modern, mobile-first design
-- 🌗 Dark mode toggle
-- ✉️ Interactive contact form
-- ⚡ Fast load, smooth scroll animations
-
-**🛠️ Stack**
-`HTML` `CSS` `JavaScript`
-
-> *Add your live link & repo here once deployed*
-
-</td>
-</tr>
-</table>
-
-</div>
 
 > 💡 *More projects coming soon as I keep building — stay tuned!*
 
