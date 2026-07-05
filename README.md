@@ -28,7 +28,7 @@ Currently_Exploring: [Generative AI, Open Source, SQL, Data Visualization]
 Philosophy: "Good data tells a story. Good UI lets people hear it."
 ```
 
-- 🤖 **Generative AI Intern** @ UGCPL — building with LLMs & GenAI workflows
+- 🤖 **Generative AI Intern** @ Ardent Computech Pvt. Ltd — building with LLMs & GenAI workflows
 - 📊 **Data Analyst Intern** @ NIELIT — turning raw data into business insight
 - 🌱 **Open Source Contributor** @ GirlScript Summer of Code (GSSoC) — Open Source track
 - 🌐 Building full-stack apps with **HTML, CSS, JavaScript & Flask**
