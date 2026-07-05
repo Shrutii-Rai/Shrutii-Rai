@@ -109,7 +109,7 @@ A full-stack web app to track personal income & expenses.
 | | Role | Organization | Duration |
 |:---:|:---|:---|:---:|
 | 🤖 | **Generative AI Intern** | Ardent Computech Pvt. Ltd | 1 Jun 2026 – 15 Jul 2026 |
-| 📊 | **Data Analyst Intern** | NIELIT |1 Jul 2026 – 1 Present |
+| 📊 | **Data Analyst Intern** | NIELIT |1 Jul 2026 –  Present |
 | 🌱 | **Open Source Contributor** | GirlScript Summer of Code (GSSoC) | May 2026 – Aug 2026 |
 
 </div>
