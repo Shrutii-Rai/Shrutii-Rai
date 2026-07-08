@@ -28,7 +28,7 @@ Currently_Exploring: [Generative AI, Open Source, SQL, Data Visualization]
 Philosophy: "Good data tells a story. Good UI lets people hear it."
 ```
 
-- 🤖 **Generative AI Intern** @ Ardent Computech Pvt. Ltd — building with LLMs & GenAI workflows
+- 🤖 **Generative AI Intern** @UGCPL — building with LLMs & GenAI workflows
 - 📊 **Data Analyst Intern** @ NIELIT — turning raw data into business insight
 - 🌱 **Open Source Contributor** @ GirlScript Summer of Code (GSSoC) — Open Source track
 - 🌐 Building full-stack apps with **HTML, CSS, JavaScript & Flask**
@@ -108,7 +108,7 @@ A full-stack web app to track personal income & expenses.
 
 | | Role | Organization | Duration |
 |:---:|:---|:---|:---:|
-| 🤖 | **Generative AI Intern** | Ardent Computech Pvt. Ltd | 1 Jun 2026 – 15 Jul 2026 |
+| 🤖 | **Generative AI Intern** | UGCPL | 1 Jun 2026 – 15 Jul 2026 |
 | 📊 | **Data Analyst Intern** | NIELIT |1 Jul 2026 –  Present |
 | 🌱 | **Open Source Contributor** | GirlScript Summer of Code (GSSoC) | May 2026 – Aug 2026 |
 
