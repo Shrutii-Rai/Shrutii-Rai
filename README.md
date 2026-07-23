@@ -23,7 +23,7 @@
 I'm **Shruti**, a CS student who loves the space where **data meets design** , finding the story inside messy numbers and turning it into something people can actually *see* and *use*.
 
 ```yaml
-Role: Data Analyst & Frontend Developer
+Role: Frontend Developer
 Currently_Exploring: [Generative AI, Open Source, SQL, Data Visualization]
 Philosophy: "Good data tells a story. Good UI lets people hear it."
 ```
